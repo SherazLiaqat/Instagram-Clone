@@ -1,0 +1,22 @@
+.App{
+  background-color: #fafafa;
+  
+  
+  
+}
+.app-signup{
+  display: flex;
+  flex-direction: column;
+  
+}
+.app-header{
+  object-fit: contain;
+  padding-left: 20px;
+  background-color: #fff;
+  border-bottom: 1px solid lightgrey;
+  border-top: 2px solid lightgrey;
+}
+.app-header-image{
+  width: 150px;
+  
+}
